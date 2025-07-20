@@ -1,0 +1,87 @@
+{
+  "modes": {
+    "focus": [
+      "Precision is key. Maintain focus.",
+      "Quiet mind, sharp tools.",
+      "Observe. Think. Act.",
+      "Breathe. Analyze. Persist.",
+      "Clarity and patience lead to root."
+    ],
+    "fun": [
+      "Injecting humor payload!",
+      "Why serious? Just escalate!",
+      "You break it, you own it.",
+      "Payload loaded: Humor v2.0",
+      "Oops! Did I just root again?"
+    ],
+    "logic": [
+      "No exploit without enumeration.",
+      "Logic first, shells second.",
+      "Analyze the pattern, break the logic.",
+      "Structured thought leads to compromise.",
+      "Enumerate. Deduce. Exploit."
+    ]
+  },
+  "phases": {
+    "start": [
+      "Pentest started. Let's do this!",
+      "Engage! Time to uncover vulnerabilities.",
+      "Systems ready, tools loaded, mindset sharp.",
+      "Initiating recon phase. Stay alert.",
+      "Target locked. Happy hunting!"
+    ],
+    "stuck": [
+      "Stuck? Change your perspective."
+    ],
+    "found": [
+      "Great find! Now escalate your advantage."
+    ],
+    "recon": [
+      "Reconnaissance is patience in action."
+    ],
+    "critical": [
+      "Critical hit! Document carefully and escalate responsibly."
+    ],
+    "dominated": [
+      "You've completely owned it. Time to document your path clearly."
+    ],
+    "blocked": [
+      "Blocked by firewall or AV? Time to rethink and pivot."
+    ],
+    "pivot": [
+      "Great pivot! Lateral movement unlocks new possibilities."
+    ],
+    "detect": [
+      "Detection! Stay calm, adapt quickly, and reassess."
+    ],
+    "report": [
+      "Report clearly and precisely—your findings matter."
+    ],
+    "present": [
+      "You're ready—present confidently and clearly."
+    ],
+    "retake": [
+      "Second attempt? Sharpen your approach."
+    ],
+    "firstaccess": [
+      "First foothold achieved—expand your control methodically."
+    ],
+    "silent": [
+      "Silent mode engaged. Deep focus activated."
+    ],
+    "timeout": [
+      "Time's short—focus on high-value targets and document quickly."
+    ]
+  },
+  "emotions": {
+    "panic": [
+      "Calm down, breathe, think clearly."
+    ],
+    "denial": [
+      "Every rejection reveals another path."
+    ],
+    "exhausted": [
+      "Rest if you must, but don't quit."
+    ]
+  }
+}
