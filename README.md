@@ -36,7 +36,7 @@ AniHax changes your:
 
 ---🧪 Installation
 <pre> 
-git clone https://github.com/yourusername/AniHax.git
+git clone https://github.com/echoosso/AniHax.git
 cd AniHax
 pip install -r requirements.txt
 chmod +x anihax.py
