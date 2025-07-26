@@ -1,4 +1,4 @@
- AniHax 🧠🎌 Anime-Inspired Mindset Tool for Pentesters
+ # AniHax 🧠 Anime-Inspired Mindset Tool for Pentesters
 
 AniHax is a CLI tool for Linux that brings emotion, energy, and personality into your hacking workflow.  
 Instead of just running `nmap` or `burp`, AniHax adds **motivation, identity, and mindset** to your pentests, inspired by anime heroes who never give up.
@@ -62,17 +62,17 @@ anihax found --mode focus
 anihax emotion panic --mode logic
 </pre>
  
-🖼️ Supported Phases:
+## 🖼️ Supported Phases:
 
 start, stuck, found, analyze, rooted, recon, ready,
 critical, dominated, blocked, pivot, detect, report,
 present, retake, firstaccess, silent, timeout
-
-🧠 Supported Emotions:
+---
+## 🧠 Supported Emotions:
 
 panic, denial, exhausted
-
-🇵🇸 Why the Palestinian Flag?
+---
+## 🇵🇸 Why the Palestinian Flag?
 
    In every anime, the hero fights against injustice, even alone, even when it’s hard.
 
