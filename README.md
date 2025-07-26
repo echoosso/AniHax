@@ -35,51 +35,56 @@ AniHax changes your:
 - 🧩 Modes: `focus`, `fun`, `logic`
 
 ---🧪 Installation
-
+<pre> 
 git clone https://github.com/yourusername/AniHax.git
 cd AniHax
-chmod +x anihax.py
-pip install colorama
-
-    ✅ Requires: Python 3.x
-    📦 Install dependencies with:
-
 pip install -r requirements.txt
+chmod +x anihax.py
 
-    Optional: Add to your .bashrc or .zshrc:
+</pre>
 
-alias anihax='python3 /path/to/anihax.py'
 
+
+✅ Requires: Python 3.x
+📦 Install dependencies with:
+
+<pre>pip install -r requirements.txt</pre>
+
+ 
+Optional: Add to your .bashrc or .zshrc:
+<pre>alias anihax="python3 /path/to/anihax.py"</pre>
 
 ## 🔁 Example Usage
 
-```bash
+<pre>
 anihax stuck --mode fun
 anihax found --mode focus
 anihax emotion panic --mode logic
-
-🖼️ Supported Phases
+</pre>
+ 
+🖼️ Supported Phases:
 
 start, stuck, found, analyze, rooted, recon, ready,
 critical, dominated, blocked, pivot, detect, report,
 present, retake, firstaccess, silent, timeout
 
-🧠 Supported Emotions
+🧠 Supported Emotions:
 
 panic, denial, exhausted
 
 🇵🇸 Why the Palestinian Flag?
 
-    In every anime, the hero fights against injustice — even alone, even when it’s hard.
+   In every anime, the hero fights against injustice — even alone, even when it’s hard.
 
 The Palestinian flag is part of AniHax because it stands for:
 
-    Resistance against oppression
+   Resistance against oppression
 
-    The courage to speak truth
+   The courage to speak truth
 
-    Identity and values — not just function
+   Identity and values — not just function
 
 You’re free to change it — but for me, it stays.
 Even behind a terminal, we carry a voice.
+
 
