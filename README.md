@@ -1,7 +1,7 @@
- AniHax 🧠🎌 — Anime-Inspired Mindset Tool for Pentesters
+ AniHax 🧠🎌 Anime-Inspired Mindset Tool for Pentesters
 
 AniHax is a CLI tool for Linux that brings emotion, energy, and personality into your hacking workflow.  
-Instead of just running `nmap` or `burp`, AniHax adds **motivation, identity, and mindset** to your pentests — inspired by anime heroes who never give up.
+Instead of just running `nmap` or `burp`, AniHax adds **motivation, identity, and mindset** to your pentests, inspired by anime heroes who never give up.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2edf788-e59d-4e78-b823-2ab71e378401" />
 
@@ -9,11 +9,11 @@ Instead of just running `nmap` or `burp`, AniHax adds **motivation, identity, an
 
 ## 🌀 Why AniHax?
 
-In penetration testing, mindset is everything — and yet, most tools are soulless.
+In penetration testing, mindset is everything and yet, most tools are soulless.
 
-Anime heroes train hard, fail often, and fight against impossible odds — just like we do.  
+Anime heroes train hard, fail often, and fight against impossible odd, just like we do.  
 They each have **unique powers, personalities, and ambitions**. That’s why AniHax exists:  
-A tool that reflects your current phase — technically and emotionally.
+A tool that reflects your current phase technically and emotionally.
 
 AniHax changes your:
 
@@ -74,7 +74,7 @@ panic, denial, exhausted
 
 🇵🇸 Why the Palestinian Flag?
 
-   In every anime, the hero fights against injustice — even alone, even when it’s hard.
+   In every anime, the hero fights against injustice, even alone, even when it’s hard.
 
 The Palestinian flag is part of AniHax because it stands for:
 
@@ -82,9 +82,9 @@ The Palestinian flag is part of AniHax because it stands for:
 
    The courage to speak truth
 
-   Identity and values — not just function
+   Identity and values, not just function
 
-You’re free to change it — but for me, it stays.
+You’re free to change it,but for me, it stays.
 Even behind a terminal, we carry a voice.
 
 
