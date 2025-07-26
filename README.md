@@ -61,17 +61,18 @@ anihax stuck --mode fun
 anihax found --mode focus
 anihax emotion panic --mode logic
 </pre>
- 
+
+---
 ## 🖼️ Supported Phases:
 
 start, stuck, found, analyze, rooted, recon, ready,
 critical, dominated, blocked, pivot, detect, report,
 present, retake, firstaccess, silent, timeout
----
+
 ## 🧠 Supported Emotions:
 
 panic, denial, exhausted
----
+
 ## 🇵🇸 Why the Palestinian Flag?
 
    In every anime, the hero fights against injustice, even alone, even when it’s hard.
