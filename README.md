@@ -20,14 +20,12 @@ AniHax changes your:
 - 💻 Wallpaper (based on pentest phase or emotion)
 - 💬 Mindset quote (from `motivation.json`)
 - 🔔 Notification (if supported)
-- 🎌 Terminal banner (with anime + Palestine design)
 
 ---
 
 ## ✨ Features
 
 - ✅ Anime/Hacker ASCII banner on start
-- 🎌 Integrated **Palestinian flag** as a symbol of justice & identity
 - 🧠 Phase- and emotion-based wallpaper switching
 - 📢 Native Linux notifications (`notify-send`)
 - ⚙️ Supports GNOME, XFCE, KDE, i3 (via `feh`)
