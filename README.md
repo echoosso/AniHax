@@ -48,16 +48,14 @@ chmod +x anihax.py
 
 <pre>pip install -r requirements.txt</pre>
 
- 
-Optional: Add to your .bashrc or .zshrc:
-<pre>alias anihax="python3 /path/to/anihax.py"</pre>
+
 
 ## 🔁 Example Usage
 
 <pre>
-anihax stuck --mode fun
-anihax found --mode focus
-anihax emotion panic --mode logic
+python3 anihax.py stuck --mode fun
+python3 anihax.py found --mode focus
+python3 anihax.py emotion panic --mode logic
 </pre>
 
 ---
